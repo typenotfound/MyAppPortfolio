@@ -19,7 +19,7 @@
             android:layout_marginTop="16dp"
             android:text="@string/headline"
             android:textColor="@android:color/darker_gray"
-            android:textSize="24dp" />
+            android:textSize="24sp" />
 
         <Button
             android:id="@+id/btn_app_1"
@@ -30,7 +30,7 @@
             android:background="@color/color_btn_bg"
             android:text="@string/app_name_1"
             android:textColor="@android:color/white"
-            android:textSize="16dp" />
+            android:textSize="16sp" />
 
         <Button
             android:id="@+id/btn_app_2"
@@ -41,7 +41,7 @@
             android:background="@color/color_btn_bg"
             android:text="@string/app_name_2"
             android:textColor="@android:color/white"
-            android:textSize="16dp" />
+            android:textSize="16sp" />
 
         <Button
             android:id="@+id/btn_app_3"
@@ -52,7 +52,7 @@
             android:background="@color/color_btn_bg"
             android:text="@string/app_name_3"
             android:textColor="@android:color/white"
-            android:textSize="16dp" />
+            android:textSize="16sp" />
 
         <Button
             android:id="@+id/btn_app_4"
@@ -63,7 +63,7 @@
             android:background="@color/color_btn_bg"
             android:text="@string/app_name_4"
             android:textColor="@android:color/white"
-            android:textSize="16dp" />
+            android:textSize="16sp" />
 
         <Button
             android:id="@+id/btn_app_5"
@@ -74,7 +74,7 @@
             android:background="@color/color_btn_bg"
             android:text="@string/app_name_5"
             android:textColor="@android:color/white"
-            android:textSize="16dp" />
+            android:textSize="16sp" />
 
     </LinearLayout>
 </ScrollView>
